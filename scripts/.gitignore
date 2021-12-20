@@ -1,0 +1,9 @@
+# All of the intermediate files
+unsginedtransaction1.tx
+unsginedtransaction2.tx
+combinedtransactions.tx
+groupedtransactions.tx
+signout.tx
+dr.msgp
+
+*.rej
